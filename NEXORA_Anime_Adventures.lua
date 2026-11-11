@@ -1,4 +1,4 @@
--- RobScript Team - Anime Adventures · Robly Airflow
+-- NEXORA Team - Anime Adventures · Robly Airflow
 -- Task navigation: Home, Farm, Units, Battle, Activity, Settings.
 -- Readable source cached for restarting and continuing after teleports.
 local AIRFLOW_SOURCE = [====[
